@@ -26,6 +26,7 @@ namespace Examen_3_ServWeb_Natillera.Clases
             }
         }
 
+        // Metodo para actualizar un evento 
         public string Actualizar()
         {
             try
